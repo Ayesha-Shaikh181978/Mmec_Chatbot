@@ -4,7 +4,6 @@
 
 OPENAI_API_KEY=sk-...your key...
 ALLOW_EXTERNAL_QUERIES=1
-nzz b
 2) Restart the Flask server (stop existing server and start again).
 
 PowerShell example:
