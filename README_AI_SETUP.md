@@ -1,10 +1,10 @@
-Enabling OpenAI fallback for MMEC Chatbot
+      Enabling OpenAI fallback for MMEC Chatbot
 
 1) Create a .env file in the project root (same folder as app.py) and add:
 
 OPENAI_API_KEY=sk-...your key...
 ALLOW_EXTERNAL_QUERIES=1
-
+nzz b
 2) Restart the Flask server (stop existing server and start again).
 
 PowerShell example:
